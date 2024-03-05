@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle code collection
+Collection of my Kaggle code.
